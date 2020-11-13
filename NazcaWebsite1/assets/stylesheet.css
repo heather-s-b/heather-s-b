@@ -1,0 +1,250 @@
+@font-face {
+	font-family: Warpaint;
+	src: url("Warpaint.ttf");
+}
+
+h1, h2 {
+	font-family: Warpaint;
+	margin: 5px, 5px, 5px, 5px;
+
+}
+
+.adv-title
+{
+
+	margin-left:30px;
+	margin-right:30px;
+	width:95%;
+	text-align:center;
+	float:left;
+	
+}
+
+h1 {
+	font-size: 70pt;
+	height: 100px;
+	margin-top: 3px;
+	margin-bottom:3px;
+}
+
+p, h3 {
+	line-height: 1.8;
+	font-family: Verdana;
+}
+	
+
+
+header {
+	background-color:#fad6a5;
+	text-align: center;
+	width:100%;
+}
+
+.title {
+	float: center;
+	height:100px;
+	position: relative;
+}
+
+.title, .title2 {
+	padding: 10px;
+	text-align: center;
+	position: relative;
+	margin: 20px;
+}
+
+.title-splash {
+	float: center;
+	width:100%;
+}
+
+.header-bar {
+	text-align: center;
+	width:100%;
+	height:200px;
+	float: left;
+	position:relative;
+	border:0px;
+	margin:0px;
+}
+
+
+.toprow-nav, .botrow-nav {
+	text-align:center;
+	float:left;
+	height: 40px;
+	width: 100%;
+	position: relative; 
+	font-size: 12pt;
+}
+
+a, .button {
+	text-decoration: none;
+	color: black;
+	font-family: Verdana;
+	padding: 10px;
+	border: none ;
+	margin: 0px;
+}
+
+.head1 {
+	float:left;
+	padding-left:50px;
+	padding-right:50px;
+	padding-bottom: 10px;
+	margin:0px;
+	border:none;
+	background-color:#fad6a5;
+	width:25%;
+}
+
+.external1 {
+	float:left;
+	padding-left:95px;
+	padding-right:95px;
+	margin:0px;
+	border:none;
+	background-color:#fad6a5;	
+}
+
+
+.button {
+	background-color:#f5b356;
+	font-size: 20pt;
+	padding: 15px, 32px;
+	float: left;
+	color: white;
+	position: relative;
+}
+
+
+.green-border-side {
+	border-right: 2px solid black;
+	position:relative;
+	float:left;
+}
+
+.login1 {
+	float: left;
+	position: relative;
+	border:0px;
+	margin:0px;
+/*	width: 25%;*/
+} 
+
+
+footer {
+	text-align: center;
+	height: 300px;
+}
+
+.footer-bar, .footer-links, .social-media {
+	background-color:#fad6a5;
+	float: left;
+	width:100%;
+	border: 0px, 0px, 0px, 10px;
+	padding: 10px, 20px, 10px;	
+}
+
+.footer-links, .social-media {
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+.botrow-nav {
+	padding-top:20pt;
+	height:40px;
+}
+
+.main {
+	background-color: #f9f5e3;
+}
+
+.content-main {
+	margin: 40px;
+	position: relative;
+	/*height: 100%;*/
+	float:left;
+	width:
+}
+
+.content1 {
+	float: left;
+	height:100%;
+   /*     width:100%; */
+	margin-top:20px;
+	margin-bottom: 20px;
+	margin-left:40px;
+	margin-right:40px;
+	text-align: left;
+	position: relative;
+}
+
+.content2 {
+	float: left;
+	padding: 10px;
+	margin: 15px;
+	position: relative;
+	width:420px;
+	height:309px;
+}
+	/*width: 30%;*/
+.contentList {
+    border-style:solid;
+    border-width:1px;
+    border-color: #fad6a5;
+    float: left;
+    position: relative;   
+    width:100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.adventure-panel  {
+	border-style:solid;
+    border-width:1px;
+	border-color: #A0522D;
+	float: left;
+	width:100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.divider
+{
+	
+		border-top-style:solid;
+    border-top-width:1px;
+	border-top-color: #A0522D;
+	width:66%;
+	float:center;
+	margin:20px, 50px,20px, 50px
+}
+
+.adventure-info   {
+margin: 20px;
+padding-top:10px;
+padding-right:10px;
+margin-right:40px;
+width:95%;
+}
+
+
+.adventure-info2	{
+	margin: 5px;
+	padding:0px, 20px, 0px, 15px;
+	float:left;
+	width:30%;	
+}
+
+.registerLine {
+    width: 30%;
+    padding: 5px;
+    position: relative;
+    margin: 0px;
+    
+}
